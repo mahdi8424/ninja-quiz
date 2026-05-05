@@ -1,6 +1,6 @@
 # Django Ninja Quiz project
 
-A very simple quiz platform API using Djangi Ninja
+A very simple quiz platform API using Django Ninja
 
 ## Installation
 
